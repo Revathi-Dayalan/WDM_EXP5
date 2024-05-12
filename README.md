@@ -119,7 +119,8 @@ if __name__ == "__main__":
 ```
 
 ## Output:
-![](1.PNG)
+![image](https://github.com/Revathi-Dayalan/WDM_EXP5/assets/96000574/b4650a04-8a26-4f63-88e8-d0971aa34097)
+
 
 ## Result:
 Thus, the implementation of Information Retrieval using Boolean model had been successfully done using python.
